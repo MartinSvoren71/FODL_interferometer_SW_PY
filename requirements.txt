@@ -1,0 +1,7 @@
+# FODL requirements
+# Usage: pip install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+opencv
+tkinter
+numpy
